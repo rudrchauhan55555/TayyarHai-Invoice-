@@ -1,0 +1,14 @@
+[
+  {
+    "invoiceNo": "TN-0001",
+    "date": "2025-07-14",
+    "workerID": "W123",
+    "workerName": "Ravi Kumar",
+    "customerName": "Amit Sharma",
+    "work": "AC Repair",
+    "phone": "9876543210",
+    "address": "Sector 12, Delhi",
+    "pincode": "110045",
+    "amount": "1200"
+  }
+]
