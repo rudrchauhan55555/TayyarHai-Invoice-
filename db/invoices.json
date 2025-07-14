@@ -22,5 +22,17 @@
     "address": "Dhum Nagar, Narkatiaganj, Bihar",
     "pincode": "845455",
     "amount": "7999"
+  },
+  {
+    "invoiceNo": "TN-0003",
+    "date": "2025-07-14",
+    "workerID": "W001",
+    "workerName": "Ruhul Amin",
+    "customerName": "Krishna Chaudhari",
+    "work": "Plumber",
+    "phone": "8226862816",
+    "address": "Dhum Nagar, Narkatiaganj",
+    "pincode": "845455",
+    "amount": "7999"
   }
 ]
